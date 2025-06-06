@@ -1,0 +1,13 @@
+[
+  "Estás frente a un castillo oscuro. ¿Entrar (i) o rodearlo (d)?",
+  [
+    "Una gárgola te ataca en la entrada. ¿Defenderte (i) o escapar (d)?",
+    ["La gárgola te destroza con sus garras. ☠️", true],
+    ["Lográs escapar, pero estás herido. 🩸", false]
+  ],
+  [
+    "Encuentras una entrada secreta. ¿Entrar (i) o seguir de largo (d)?",
+    ["Caíste en una trampa al entrar. ☠️", true],
+    ["Encontraste una salida secreta del castillo. ¡Ganaste! 🏆", false]
+  ]
+]

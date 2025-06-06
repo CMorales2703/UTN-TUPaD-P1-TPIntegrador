@@ -1,0 +1,13 @@
+[
+  "Estás a bordo de una nave averiada. ¿Ir a la sala de control (i) o al motor (d)?",
+  [
+    "En la sala hay un robot hostil. ¿Luchar (i) o esconderte (d)?",
+    ["El robot te dispara con su láser. ☠️", true],
+    ["Te escondés hasta que se va. Reparás la nave y escapás. 🛠️🚀", false]
+  ],
+  [
+    "El motor está sobrecalentado. ¿Apagarlo (i) o salir por la cápsula de emergencia (d)?",
+    ["El motor explota al tocarlo. ☠️", true],
+    ["Escapás justo antes de la explosión. ¡Te salvaste! 🏆", false]
+  ]
+]

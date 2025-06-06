@@ -1,0 +1,13 @@
+[
+  "Estás en una selva. ¿Izquierda (i) o derecha (d)?",
+  [
+    "Hay un río. ¿Cruzar (i) o bordearlo (d)?",
+    ["Te ahogaste. ☠️", true],
+    ["Encontraste un puente y cruzaste con éxito. 🎉", false]
+  ],
+  [
+    "Hay una cabaña abandonada. ¿Entrar (i) o seguir (d)?",
+    ["Un oso dormía dentro... ¡fuiste su cena! 🐻☠️", true],
+    ["Seguiste caminando y encontraste la salida. ¡Ganaste! 🏆", false]
+  ]
+]
