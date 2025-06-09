@@ -29,4 +29,38 @@ El jugador debe tomar decisiones a medida que avanza por los nodos, con la posib
 
 ---
 
-> _Este trabajo fue realizado como parte de la materia **Programación I** de la Tecnicatura Universitaria en Programación a Distancia (UTN)._
+## 🛠️ Modo de Uso
+
+### 1. Clonar el repositorio o descargar el código fuente
+
+```bash
+git clone https://github.com/usuario/proyecto-aventuras-python.git
+cd proyecto-aventuras-python
+```
+📦 Alternativamente, podés descargar el archivo .zip desde GitHub y descomprimirlo.
+
+### 2. Ejecutar el programa principal
+
+Asegurate de tener Python 3 instalado en tu sistema.
+Para iniciar el programa, ejecutá el archivo principal:
+
+```bash
+python main.py
+```
+### 3. Navegar por el menú principal
+
+Una vez iniciado, el programa mostrará un menú interactivo con las siguientes opciones:
+
+1. Crear aventura nueva: Construí tu propia historia definiendo preguntas y finales.
+2. Jugar aventura: Elegí una historia y tomá decisiones para avanzar.
+3. Ver aventura: Explorá la estructura del árbol en diferentes tipos de recorridos:
+    - Preorden
+    - Inorden
+    - Postorden
+4. Salir: Finaliza la ejecución del programa.
+
+### 4. Guardar y cargar aventuras
+
+- 🗂 Las aventuras se almacenan como archivos .json en la carpeta aventuras/.
+- 📌 Se pueden crear, guardar y jugar múltiples historias.
+- 🧹 Para eliminar una historia, basta con borrar su archivo .json.
