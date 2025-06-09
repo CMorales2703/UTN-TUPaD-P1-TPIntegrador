@@ -23,6 +23,10 @@ El jugador debe tomar decisiones a medida que avanza por los nodos, con la posib
 - Aplicar conceptos de recorrido de árboles (preorden, inorden, postorden) para visualizar la narrativa.
 - Incorporar persistencia de datos mediante archivos para guardar y cargar aventuras.
 
+## 🔗🎥 PDF Entregable
+
+👉 [Ver PDF](https://drive.google.com/file/d/11f_0-rg16t7WBGmhTt4Zjxm8rbT7nHE4/view?usp=drive_link)
+
 ## 🔗🎥 Enlace al video explicativo
 
 👉 [Ver video en YouTube](https://www.youtube.com/watch?v=1WbyTA41EUU)
