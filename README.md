@@ -27,6 +27,10 @@ El jugador debe tomar decisiones a medida que avanza por los nodos, con la posib
 
 👉 [Ver PDF](https://drive.google.com/file/d/11f_0-rg16t7WBGmhTt4Zjxm8rbT7nHE4/view?usp=drive_link)
 
+## 🔗🎥 Presentación
+
+👉 [Ver PDF](https://drive.google.com/file/d/1K4hbBif0mxw6UD4hvdCu05u9TtWzPA2H/view?usp=drive_link)
+
 ## 🔗🎥 Enlace al video explicativo
 
 👉 [Ver video en YouTube](https://www.youtube.com/watch?v=1WbyTA41EUU)
